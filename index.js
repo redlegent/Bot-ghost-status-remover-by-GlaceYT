@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Crown Solutions👑 ","Cfx Remover❗","Crown Solutions❗"," Cfx Remover❗","AntiFiveM🤡"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd', 'offline'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
