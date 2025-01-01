@@ -37,8 +37,8 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Crown Solutions👑 ","Cfx Remover❗","Crown Solutions❗"," Cfx Remover❗","AntiFiveM🤡"];
-const statusTypes = [ 'dnd', 'offline'];
+const statusMessages = ["Watching Haze Shop ",",""Watching Haze Shop❗"," Watching Haze Shop❗❗",""];
+const statusTypes = [ 'dnd', 'Invisible'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
